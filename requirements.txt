@@ -1,0 +1,13 @@
+pandas
+numpy
+torch
+matplotlib
+seaborn
+scikit-learn
+tqdm
+huggingface_hub
+plotly
+networkx
+langchain-ollama
+ollama
+
