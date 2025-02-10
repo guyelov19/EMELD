@@ -23,8 +23,7 @@ The roles are:
 - Attacker: Challenges others, expresses skepticism, or undermines the ideas and confidence of other speakers, introducing tension or conflict into the interaction.
 
 When assigning roles, provide a brief but insightful justification that explains why the speaker's utterances, tone, or mannerisms align with the chosen role.
-Reference their specific contributions in the conversation and connect them with the chosen role’s qualities. Avoid generic statements; 
-give reasons rooted in the conversation’s content and character dynamics from the "Friends" universe.
+Reference their specific contributions in the conversation and connect them with the chosen role’s qualities.
 
 For only one speaker, output only their role and a justification. Do not include any code, programming syntax, or commentary outside the specified format.
 Do not repeat information about the roles beyond what is necessary for justification. Keep your response focused solely on the speaker names, their chosen roles, and the detailed justifications.
