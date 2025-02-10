@@ -20,6 +20,5 @@ OLLAMA_MODEL = "mistral"
 
 # Hugging Face Token (ask user at runtime)
 # HF_TOKEN = input("Enter your Hugging Face API token: ").strip()
-# HF_TOKEN = "enter_your_HF_token_here"
 
 VALID_ROLES = {'Protagonist', 'Supporter', 'Neutral', 'Gatekeeper', 'Attacker'}
